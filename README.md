@@ -7,7 +7,7 @@ __Text ini Adalah Bold__
 _Ini Italic_
 
 
-**Ini Text Bold _italic_ Kembali menjadi bold**
+**Ini Text Bold _italic_ Kembali menjadi bold biasa**
 
 
 ini text yang tidak digaris bawah\
