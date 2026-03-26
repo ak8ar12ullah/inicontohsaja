@@ -1,1 +1,5 @@
-Paragraf_1    Setelah_Spasi_2_Kali_tapi_masih_Paragraf_1
+** Ini bold _Italic_ lalu Bold **
+
+Atau
+
+_Ini Italic __lalu Bold__ lallu Italic _
