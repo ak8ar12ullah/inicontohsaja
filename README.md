@@ -3,7 +3,7 @@ __ Text ini Adalah Bold __
 
 
 
-* Ini Italic *\
+*Ini Italic*\
 _ Ini Italic _
 
 
