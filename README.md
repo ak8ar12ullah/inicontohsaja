@@ -4,10 +4,10 @@ __Text ini Adalah Bold__
 
 
 *Ini Italic*\
-_ Ini Italic _
+_Ini Italic_
 
 
-** Ini Text Bold _italic_ Kembali menjadi bold **
+**Ini Text Bold _italic_ Kembali menjadi bold**
 
 
 ini text yang tidak digaris bawah\
