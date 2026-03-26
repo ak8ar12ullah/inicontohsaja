@@ -1,1 +1,1 @@
-Paragraf_1  Setelah_Spasi_2_Kali_tapi_masih_Paragraf_1
+Paragraf_1    Setelah_Spasi_2_Kali_tapi_masih_Paragraf_1
