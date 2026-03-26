@@ -1,25 +1,24 @@
-**Text ini Adalah Bold**\
-__Text ini Adalah Bold__
+# Example headings
 
+## Sample Section
 
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-*Ini Italic*\
-_Ini Italic_
+## This heading is not unique in the file
 
+TEXT 1
 
-**Ini Text Bold _italic_ Kembali menjadi bold biasa**
+## This heading is not unique in the file
 
+TEXT 2
 
-ini text yang tidak digaris bawah\
-<ins>ini text yang digaris bawah </ins>
+# Links to the example headings above
 
+Link to the sample section: [Link Text](#sample-section).
 
-ini adalah text yang tidak dicoret\
-~ini adalah text yang dicoret~\
-~~ini adalah text yang dicoret~~
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
 
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
-2<sup>2</sup> \
-textnormal<sup>textdiatas</sup>\
-2<sub>2</sub> \
-textnormal<sub>textdibawah</sub>
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
