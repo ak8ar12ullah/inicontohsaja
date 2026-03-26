@@ -22,4 +22,4 @@ ini adalah text yang tidak dicoret\
 2<sup>2</sup> \
 textnormal<sup>textdiatas</sup>\
 2<sub>2</sub> \
-textnormal<sub>textdibawah</sub>\
+textnormal<sub>textdibawah</sub>
