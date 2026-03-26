@@ -1,5 +1,5 @@
-** Text ini Adalah Bold **\
-__ Text ini Adalah Bold __
+**Text ini Adalah Bold**\
+__Text ini Adalah Bold__
 
 
 
