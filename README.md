@@ -1,6 +1,13 @@
+
 # INI ADALAH HEADER 1
 ## INI ADALAH HEADER 2
 ### INI ADALAH HEADER 3
 #### INI ADALAH HEADER 4
 ##### INI ADALAH HEADER 5
 ###### INI ADALAH HEADER 6
+
+paragraf1
+baris2  
+br?
+
+baris berikutnya enter 2
