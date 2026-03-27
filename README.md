@@ -1,4 +1,4 @@
-Helo ini adalah Text Biasa. /
+Helo ini adalah Text Biasa. 
 > PENTING! Ini adalah Text HIGHTLIGHT </br>
 > Ini Juga Bagian Dari Text HIGHLIGHT
 
