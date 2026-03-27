@@ -1,1 +1,1 @@
-Kamu palint the :+1:
+Kamu paling the :+1:
