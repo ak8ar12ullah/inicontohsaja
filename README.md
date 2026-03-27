@@ -1,3 +1,4 @@
+## Tugas yang mau dikerjakan.
 - [x] Membuat Readme.MD
 - [ ] Menyelesaikan Init Proyek.
 - [ ] Menyelesaikan Fitur Home Page.
