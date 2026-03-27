@@ -1,5 +1,20 @@
-Helo ini adalah Text Biasa. 
-> PENTING! Ini adalah Text HIGHTLIGHT </br>
-> Ini Juga Bagian Dari Text HIGHLIGHT
+## ini tidak dengan js
+```
+    let a = 1;
+    let b = 2;
+    function tambah(angka, angka2){
+        return angka + angka2;
+    } 
+    console.log(tambah(a, b);
+```
 
-Mudah kan teman2?
+
+## ini dengan js
+```js
+    let a = 1;
+    let b = 2;
+    function tambah(angka, angka2){
+        return angka + angka2;
+    } 
+    console.log(tambah(a, b);
+```
