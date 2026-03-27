@@ -1,1 +1,6 @@
-ini adalah warna putih `#ffffff`, mantap :thumbsup: 
+Dibawah ini adalah garis
+***
+Dibawah ini juga garis
+---
+Dibawah ini juga garis
+___
