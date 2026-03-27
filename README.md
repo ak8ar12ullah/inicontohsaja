@@ -1,1 +1,1 @@
-Kamu paling the :+1:
+ini adalah warna putih `#ffffff`, mantap :thumbsup: 
