@@ -1,4 +1,4 @@
-## Tugas yang mau dikerjakan.
-- [x] Membuat Readme.MD
-- [ ] Menyelesaikan Init Proyek.
-- [ ] Menyelesaikan Fitur Home Page.
+Helo ini adalah Text Biasa.
+> PENTING! Ini adalah Text HIGHTLIGHT
+> Ini Juga Bagian Dari Text HIGHLIGHT
+Mudah kan teman2?
