@@ -1,5 +1,6 @@
 hello
 | Command | Description | And |
+|Helo|Helo|Helo|
 | - | - | - |
 | git status | 
 |-|-|-|
