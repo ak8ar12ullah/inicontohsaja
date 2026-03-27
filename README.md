@@ -1,11 +1,18 @@
-Dibawah ini adalah garis
+> [!NOTE]
+> Ada Tukang Mie Ayam yang enak loh di klaten...
 
-***
 
-Dibawah ini juga garis
+> [!TIP]
+> Selain NPM kalian juga bisa pakai PNPM loh...
 
----
 
-Dibawah ini juga garis
+> [!IMPORTANT]
+> Kalau kalian mau pakai project repository ini maka kalian harus menggunakan penyimpanan Object Storage S3.
 
-___
+
+> [!WARNING]
+> Versi ini masih belum diupdate jadi masih banyak celah keamanannya.
+
+
+> [!CAUTION]
+> Project ini tidak bisa dijalankan di Serverless Function seperti Vercel dikarenakan Project ini 80 persen didalamnya menggunakan Web Socket.
